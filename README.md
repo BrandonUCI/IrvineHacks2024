@@ -1,4 +1,4 @@
-# Picinc
+# Picnic
 Cutting costs, not cravings.
 
 ## Inspiration
