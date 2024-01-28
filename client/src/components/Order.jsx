@@ -1,13 +1,18 @@
 import React from 'react';
 import BackIcon from '@mui/icons-material/ArrowBack';
-import "../Order.css";
+
+import { Link } from 'react-router-dom';
+
+import "./Order.css";
   
 function OrderPage() {
     return (
         <div class="main">
             <header className="header">
                 <a href="">
-                    <BackIcon />
+                    <Link to="/menus">
+                        <BackIcon />
+                    </Link> 
                 </a>
             </header>
             <div class="section">
