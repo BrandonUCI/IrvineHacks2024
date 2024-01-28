@@ -17,7 +17,7 @@ function BottomNavBar() {
     };
   
     return (
-      <BottomNavigation showlabels value={value} onChange={handleChange} showLabels>
+      <BottomNavigation showlabels value={value} onChange={handleChange} showLabels className='w-full flex items-center py-5 fixed bottom-0 z-20 bg-opacity-50'>
         <BottomNavigationAction label="Create" icon={<CreateIcon />} />
         <BottomNavigationAction label="Search" icon={<ExploreIcon />} />
         <BottomNavigationAction label="Profile" icon={<ProfileIcon />} />
