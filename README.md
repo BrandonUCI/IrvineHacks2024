@@ -36,3 +36,5 @@ Through this hackathon project, we learned the importance of carefully consideri
 ## What's next for Picnic
 In the future, we envision GPS tracking for a seamless ordering process, multiple restaurant options in a single picnic for variety, and integration with restaurants’ data for up-to-date menus. This way, Picnic’s reach can be expanded beyond UCI. We would also like to include profiles for delivery drivers, allowing Picnic to become a standalone app.
 
+## Credits
+Created at <a href="https://irvinehacks.com/">IrvineHacks</a> 2024
