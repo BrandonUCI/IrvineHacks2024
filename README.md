@@ -1,5 +1,5 @@
 # Picnic
-Cutting costs, not cravings.
+Cutting Costs, Not Cravings.
 
 ## Inspiration
 Many undergraduate students in the U.S. turn to the convenience of food delivery apps to fuel themselves during the school year. These food delivery apps, however, are notorious for their high service and delivery fees. In the University of California alone, “40 percent of the student body… come from low-income households”. Picnic aims to Cut Costs, Not Cravings for university students across the U.S. by promoting an innovative approach to ordering food.
