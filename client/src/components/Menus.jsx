@@ -44,9 +44,9 @@ const MenusCard = ({ name, icon, price, description}) => {
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
                     className='w-[40px] h-[40px] flex justify-center items-center cursor-pointer'
-                    onClick={handleIncrement}
+                    onClick={handleDecrement}
                 >
-                    <img src={plus} alt="Add to cart" style={{ width: '35px', height: '35px' }}/>
+                    <img src={minus} alt="Remove from cart" style={{ width: '35px', height: '35px' }}/>
                 </motion.div>
                 <div className="bg-gray rounded-[20px] w-[50px] h-[35px] flex justify-center items-center">
                     {counter}
@@ -55,9 +55,9 @@ const MenusCard = ({ name, icon, price, description}) => {
                     whileHover={{ scale: 1.05 }}
                     whileTap={{ scale: 0.95 }}
                     className='w-[40px] h-[40px] flex justify-center items-center cursor-pointer'
-                    onClick={handleDecrement}
+                    onClick={handleIncrement}
                 >
-                    <img src={minus} alt="Remove from cart" style={{ width: '35px', height: '35px' }}/>
+                    <img src={plus} alt="Add to cart" style={{ width: '35px', height: '35px' }}/>
                 </motion.div>
                 </div>
             </div>

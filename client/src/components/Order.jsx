@@ -90,12 +90,14 @@ function OrderPage() {
                     </div>
                 </div>
 
-                <div class="confirm-button">
-                <button class="primary-button">
-                    <p>Confirm</p>
-                    <p>Order</p>
-                </button>
-                </div>
+                <Link to="/home">
+                    <div class="confirm-button">
+                    <button class="primary-button">
+                        <p>Confirm</p>
+                        <p>Order</p>
+                    </button>
+                    </div>
+                </Link>
             </div>
 
             
