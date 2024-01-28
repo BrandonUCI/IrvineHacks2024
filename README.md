@@ -38,3 +38,4 @@ In the future, we envision GPS tracking for a seamless ordering process, multipl
 
 ## Credits
 Created at <a href="https://irvinehacks.com/">IrvineHacks</a> 2024
+Devpost: <a href="https://devpost.com/software/picnic-zd5p8g?ref_content=user-portfolio&ref_feature=in_progress">Picnic Devpost</a>
